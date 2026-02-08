@@ -1,0 +1,12 @@
+*.pyc
+.env
+*.log
+*.log*
+*.db
+*.jpg
+*.jpeg
+*.png
+*.JPG
+.vscode/
+
+test.py
